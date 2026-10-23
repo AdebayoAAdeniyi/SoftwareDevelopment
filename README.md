@@ -2,7 +2,7 @@
 
 Welcome. This repository is an index of my software engineering work.
 
-I am Azeez Adebayo Adeniyi. I hold a B.Sc. in Computing Science from the University of Alberta (2026) and a PhD in computational chemistry. I build and operate production web software, with a focus on secure backend design, reliable deployment, and careful testing.
+I am Azeez Adebayo Adeniyi. I hold a M.Sc. in Computing Science from the University of Alberta (2026) and a PhD in computational chemistry. I build and operate production web software, with a focus on secure backend design, reliable deployment, and careful testing.
 
 ## Featured project
 
