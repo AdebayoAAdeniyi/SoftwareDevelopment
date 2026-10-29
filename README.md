@@ -6,7 +6,7 @@ I am Azeez Adebayo Adeniyi. I hold a M.Sc. in Computing Science from the Univers
 
 ## Featured project
 
-### [FINWISE Engineering Showcase](https://github.com/YOUR-GITHUB-USERNAME/finwise-engineering-showcase)
+### [SFBwise Engineering Showcase](https://github.com/YOUR-GITHUB-USERNAME/sfbwise-engineering-showcase)
 
 A production financial planning platform that I designed, built, secured, tested, and deployed as a solo engineer. The showcase repository documents:
 
@@ -29,4 +29,4 @@ Through the contact page at https://www.strategicfinancialbuilding.ca
 
 ---
 
-*Production source code for FINWISE is kept private. The showcase repository describes how the system is built without exposing credentials, internal routes, or business details.*
+*Production source code for SFBwise is kept private. The showcase repository describes how the system is built without exposing credentials, internal routes, or business details.*
